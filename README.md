@@ -41,4 +41,5 @@ TI.19.A2
 ### Membuat dokumen HTML dengan nama file about.html, seperti berikut.
 ![12](https://user-images.githubusercontent.com/56241745/115272830-086e0c80-a169-11eb-98e9-64999955043c.png)
 ## 2. Tambahkan layout untuk menu Contact
+### Membuat dokumen HTML dengan nama file kontak.html, seperti berikut.
 ![13](https://user-images.githubusercontent.com/56241745/115273507-d8733900-a169-11eb-89fe-b0c4c25aaeee.png)
